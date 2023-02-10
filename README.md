@@ -62,8 +62,4 @@ redux-toolkit version
 ##### Remove
 + 목록에 마우스를 올리면 우측에 휴지통 아이콘이 나타나며 아이콘 클릭 시 목록에서 삭제됩니다.
 
-![image](https://user-images.githubusercontent.com/109052469/218026180-7f8b7332-afab-42c5-9c1e-8c71fa8e9a76.png)
-
-![image](https://user-images.githubusercontent.com/109052469/218026218-913815dd-a230-4cb6-926b-afb80e6106cc.png)
-
-![image](https://user-images.githubusercontent.com/109052469/218026278-0a6340bb-9465-4607-9132-8c63ae3d97fb.png)
+![image](https://user-images.githubusercontent.com/109052469/218026388-d69df8b1-4e09-4295-98df-77ad0e083110.png)
