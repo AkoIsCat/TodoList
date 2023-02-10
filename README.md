@@ -29,7 +29,7 @@ React 활용 능력을 키우기 위한 TodoList 연습
  ┗ 📜index.js
  ```
  
- ### 컴포넌트 트리
+ #### 컴포넌트 트리
  #### App > TodoTemplate > Header, TodoList, TodoCreate
  
  --------------------------
