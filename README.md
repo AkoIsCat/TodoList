@@ -13,6 +13,7 @@ npm install --save styled-components
 
 ### File Directory 
 
+```
 📦src
  ┣ 📂components
  ┃ ┣ 📂Header
@@ -33,5 +34,6 @@ npm install --save styled-components
  ┣ 📜App.js
  ┣ 📜index.css
  ┗ 📜index.js
+ ```
  
  App > TodoTemplate > Header, TodoList, TodoCreate
