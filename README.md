@@ -57,9 +57,18 @@ redux-toolkit version
 + 하단의 초록색 버튼을 클릭 시 input창이 나와 내용을 입력할 수 있습니다.
 
 ##### Check
-+ 좌측의 동그라미 버튼 or 목록이름 클릭을 이용해 실천 여부를 체크할 수 있습니다.
++ 좌측의 동그라미 버튼 or 목록이름 클릭을 이용해 실천 여부를 체크할 수 있습니다. 완료 체크 시 목록에 취소선이 그어집니다.
 
 ##### Remove
 + 목록에 마우스를 올리면 우측에 휴지통 아이콘이 나타나며 아이콘 클릭 시 목록에서 삭제됩니다.
 
 ![image](https://user-images.githubusercontent.com/109052469/218026388-d69df8b1-4e09-4295-98df-77ad0e083110.png)
+
+
+### 출처
+----------
+벨로퍼트님의 TodoList - https://react.vlpt.us/mashup-todolist/
+
+
+### 후기
+-----------
