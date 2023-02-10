@@ -41,7 +41,7 @@ common package
 ```
 styled version
 ```
-npm install --save styled-components
+ npm install --save styled-components
 ```
 redux-toolkit version
 ```
@@ -49,4 +49,14 @@ redux-toolkit version
 
 ------------------------------
 
+### 기능
+
+Create
++ 하단의 초록색 버튼을 클릭 시 input창이 나와 내용을 입력할 수 있습니다.
+
+Check
++ 왼쪽의 동그라미 버튼 or 목록  을 이용해 실천 여부를 체크할 수 있습니다.
+
+Remove
++ 
 
