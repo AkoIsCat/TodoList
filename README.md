@@ -64,11 +64,13 @@ redux-toolkit version
 
 ![image](https://user-images.githubusercontent.com/109052469/218026388-d69df8b1-4e09-4295-98df-77ad0e083110.png)
 
+### Version
+---------
 
-### 출처
+### Source
 ----------
 벨로퍼트님의 TodoList - https://react.vlpt.us/mashup-todolist/
 
 
-### 후기
+### Review
 -----------
