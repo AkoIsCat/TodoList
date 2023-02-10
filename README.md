@@ -66,9 +66,10 @@ redux-toolkit version
 
 ### Version
 ---------
-- Styled Version
+- Styled Component Version
 - Css module Version
 - Redux-toolkit Version
+- Function Update Version
 
 ### Source
 ----------
