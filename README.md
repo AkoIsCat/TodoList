@@ -80,3 +80,11 @@ redux-toolkit version
 
 ### Review
 -----------
+
+##### styled-component
+
+##### css-module
+기존에는 css-module 방식을 사용했었는데 js코드와 css가 분리된다는 장점이 있어 관리가 편하다.
+하지만 하나의 컴포넌트당 파일이 두개라 폴더가 복잡해 보이고 import도 계속 해주어야 하기 때문에 불편한 점도 있다.
+styled-component 방식에서는 props로 상태에 따른 css라던지 이벤트 효과를 그 파일에서 바로바로 설정할 수 있는데
+css-module 방식은 이벤트 핸들러를 따로 만들고, 맞는 className을 설정해주어야해서 번거로운 점이 있다.
