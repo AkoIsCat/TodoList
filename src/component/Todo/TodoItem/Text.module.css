@@ -1,0 +1,11 @@
+.text {
+  flex: 1;
+  font-size: 21px;
+  color: #495057;
+  cursor: pointer;
+}
+
+.line {
+  color: gray;
+  text-decoration: line-through;
+}

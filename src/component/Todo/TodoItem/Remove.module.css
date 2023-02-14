@@ -1,0 +1,12 @@
+.remove {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #dee2e6;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.remove:hover {
+  color: rgb(201, 9, 9);
+}

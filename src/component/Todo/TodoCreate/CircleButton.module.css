@@ -1,0 +1,39 @@
+.circle {
+  background: #38d9a9;
+  z-index: 5;
+  cursor: pointer;
+  width: 80px;
+  height: 80px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  transform: translate(-50%, 50%);
+  color: white;
+  border-radius: 50%;
+  border: none;
+  outline: none;
+}
+
+.circle:hover {
+  background: #63e6be;
+}
+
+.circle:active {
+  background: #20c997;
+}
+
+.open {
+  transition: 0.125s all ease-in;
+  transform: translate(-50%, 50%) rotate(45deg);
+  background: #ff6b6b;
+}
+
+.open:hover {
+  background: #ff8787;
+}
+
+.open:active {
+  background: #fa5252;
+}
