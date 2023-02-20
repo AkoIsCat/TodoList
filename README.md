@@ -45,9 +45,6 @@ styled version
 ```
  npm install --save styled-components
 ```
-redux-toolkit version
-```
-```
 
 ------------------------------
 
@@ -70,7 +67,6 @@ redux-toolkit version
 ---------
 - Styled Component Version
 - Css module Version
-- Redux-toolkit Version
 - Function Update Version
 
 ### Source
